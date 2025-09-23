@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "legacy_uid": "2d2ba09e-2cc2-7bb7-01df-1b4d557d852f",
+  "instructors": {
+    "content": [
+      "a02b8910-06e1-e957-c119-0d24ad54159a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5d7737e6-42fc-1807-1767-cce92b7fac12",
+    "website": "12-400-the-solar-system-spring-2006"
+  },
+  "course_title": "The Solar System",
+  "course_description": "This is an introduction to the study of the solar system with emphasis on the latest spacecraft results. The subject covers basic principles rather than detailed mathematical and physical models. Topics include: an overview of the solar system, planetary orbits, rings, planetary formation, meteorites, asteroids, comets, planetary surfaces and cratering, planetary interiors, planetary atmospheres, and life in the solar system.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.400",
+  "course_image_thumbnail": {
+    "content": "ec04de67-e3a7-e846-797c-b922921464d2",
+    "website": "12-400-the-solar-system-spring-2006"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "59e4c2db-e4f8-47c0-a645-5b1c9ca9d6f0",
+  "site_short_id": "12.400-spring-2006",
+  "site_url_path": "courses/12-400-the-solar-system-spring-2006",
+  "title": "Course Metadata"
+}
