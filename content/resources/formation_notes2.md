@@ -5,6 +5,8 @@ description: This file contains information about nebular disk model and chemica
 file: /courses/12-400-the-solar-system-spring-2006/fcf0fcbf9bda3e432d326f47f2fe23c0_formation_notes2.pdf
 file_size: 35740
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

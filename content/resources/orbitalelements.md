@@ -4,6 +4,8 @@ description: This file is an image depicting the structure of orbital elements.
 file: /courses/12-400-the-solar-system-spring-2006/22463f2f5e922e87fabc3f648a2fe647_orbitalelements.pdf
 file_size: 16352
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

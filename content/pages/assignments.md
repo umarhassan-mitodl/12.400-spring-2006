@@ -4,6 +4,8 @@ description: The assignment section contains problem sets for this course featur
   a scale model of the solar system in MIT's infinite corridor, the death of the sun
   and the destruction of earth, and javelin event at the interplanetary Olympics and
   a comet possibly aimed towards earth.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

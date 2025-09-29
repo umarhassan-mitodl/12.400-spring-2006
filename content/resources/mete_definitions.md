@@ -5,6 +5,8 @@ description: This file contains the information about the study of meteorites an
 file: /courses/12-400-the-solar-system-spring-2006/92d1071819b1e36eb59d27b0fe20ee61_mete_definitions.pdf
 file_size: 64694
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
