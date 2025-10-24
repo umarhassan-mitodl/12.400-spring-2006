@@ -4,8 +4,6 @@ description: This file contains information about the basic facts of the solar s
 file: /courses/12-400-the-solar-system-spring-2006/038c35c02e4caaa41e5c9b31c5257326_basic_facts.pdf
 file_size: 44850
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

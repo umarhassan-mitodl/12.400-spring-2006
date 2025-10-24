@@ -5,8 +5,6 @@ description: 'This file contains the topics: characteristics to be explained by 
 file: /courses/12-400-the-solar-system-spring-2006/f72c012b0f6dff05305816dfb688a4d0_ss_formation.pdf
 file_size: 57674
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

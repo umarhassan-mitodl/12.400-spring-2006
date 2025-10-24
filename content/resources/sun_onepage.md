@@ -5,8 +5,6 @@ description: This file provides information about the sloar structure, including
 file: /courses/12-400-the-solar-system-spring-2006/6f01c401d44deccca0bad03bd9830f3b_sun_onepage.pdf
 file_size: 26487
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

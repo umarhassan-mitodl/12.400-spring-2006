@@ -5,8 +5,6 @@ description: This file includes problems on the topics of distance scales, space
 file: /courses/12-400-the-solar-system-spring-2006/0591bf685cdcd9c69368274d203e2a5b_ps1.pdf
 file_size: 40464
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
